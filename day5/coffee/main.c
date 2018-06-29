@@ -1,3 +1,4 @@
+// cc -std=c99 -o menu main.c menu.c
 #include <stdio.h>
 #include "menu.h"
 
